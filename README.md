@@ -18,7 +18,7 @@
 
 ### 🧩 Projects I'm Proud Of
 
-**[LIXR FITNESS AI](#)** — A habit tracker PWA (Vite + React + TypeScript + Tailwind)
+**[LIXR FITNESS AI](https://lixr-fitness.web.app/)** — A habit tracker PWA (Vite + React + TypeScript + Tailwind)
 - Firebase cloud sync, calendar heatmap, achievements, drag-and-drop, offline-first storage
 - Distinctive ink/paper design system with Fraunces/Manrope typography
 - Went through 3 architecture pivots — React Native/Expo → browser React → the current PWA
