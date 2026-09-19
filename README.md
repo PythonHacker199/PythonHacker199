@@ -41,7 +41,7 @@ Conversational weather platform in English and Hindi.
 
 `React` `TypeScript` `Vite` `Tailwind` `Firebase` `PWA`
 
-#### 📂 [Awarna — The Smart Hybrid Organizer](https://awarnaorganiser.web.app/) (College team project)
+#### 📂 [Awarna — The Smart Hybrid Organizer](https://awarnaorganiser.web.app/) (Solo)
 - Pairs a physical indexed binder with a mobile app that tells you **where the paper original physically is** (binder + pocket), not just what it is
 - AI/OCR document scanning with auto-fill
 
